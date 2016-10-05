@@ -6,21 +6,30 @@
     <entry>
       <title><![CDATA[九月校招]]></title>
       <url>http://xiaoyaolee.com/2016/10/05/%E4%B9%9D%E6%9C%88%E6%A0%A1%E6%8B%9B/</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Hello World]]></title>
-      <url>http://xiaoyaolee.com/2016/10/04/hello-world/</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+      <content type="html"><![CDATA[<p><div align="center"><br><img src="http://oeku1ocbt.bkt.clouddn.com/201342693027.jpg" alt="enter image description here"></div></p>
+<p>趁着国庆假期，把自己接近两个月来的校招经历写出来。自己既不是项目大神，动手能力极强的大神；也不是巧舌如簧，一分本领愣是能吹出来一百分的嘴强王者。那就有人问了：“那你出来跳个毛？”，呵呵，正因为像我这样的普通人多些，把自己的缺点和不足写出来与诸君共勉，同时也参考自己经历给大家一些讲述些经验，仅此而已。</p>
+<p>主要就写三个方面吧，找工作来来去去也就这几个问题：项目，基本知识，心态<br><a id="more"></a></p>
+<h2 id="项目"><a href="#项目" class="headerlink" title="项目"></a>项目</h2><p>补充一下，个人是一名小硕，所以在研究生期间大大小小也做过两三个项目，正好可以拿出来说一下。对于项目少或者没有项目的同学不要着急，亲身经历一个同学项目基本没做什么，照样秒杀百度、腾讯。如果时间充裕，完全可以自己找一个项目，把它完全弄懂，变为自己的。</p>
+<h3 id="项目少怎么办"><a href="#项目少怎么办" class="headerlink" title="项目少怎么办"></a>项目少怎么办</h3><p>项目贵在精，而不在多。简历上的项目也以3个左右为好，而且项目有主次，因为在一次面试中可能问的也就是你最熟悉的那个项目。所以一定要找一个项目（哪怕你是没有参与这个项目）把它搞得明明白白。其他项目甚至可以是一些充数的，只要你有一个聊天的点。</p>
+<p>因为面试一开始面试官并不了解你，他只能从你最熟悉的项目中看出的一些能力，包括动手能力、解决问题能力、沟通能力。所以很多情况下面试官在让你做完自我介绍之后回来一句：“你挑一个你最熟悉的项目讲一下~”。所以这个聊天的契机必须把握住，否则连考验你基本能力的机会都没了。</p>
+<h3 id="项目主要准备什么"><a href="#项目主要准备什么" class="headerlink" title="项目主要准备什么"></a>项目主要准备什么</h3><p>项目有了，接下来就是项目你需要准备什么问题。主要就是以下几点：你这个项目中的核心技术是什么？你在开发中遇到过什么重大问题？项目可能有什么缺陷缺点？你们这个团队任务是如何协作，代码怎么进行版本控制等问题。</p>
+<p>所以对于上一小节中提到的最重要的那个项目，你需要把所有可能的问题都事先准备好答案。即使对面没有问你问题，你自己仍可以自问自答，找到话语权。</p>
+<p>项目大忌：讲一些自己没做过的东西，多么多么牛逼。这种挖坑的行为不要，每次说话的时候都要想好这句话可能带来的问题。当然机智的同学也可以以此来诱导面试官向自己熟悉的方向。</p>
+<h2 id="基本知识"><a href="#基本知识" class="headerlink" title="基本知识"></a>基本知识</h2><p>基本知识的方面也很多，首先我讲一些共性的，不论你是搞C， Java还是其他的。算法，数据结构，数据库，网络，操作系统（排名分先后，越靠前越重要）。如果是C熟悉的一般还会问套接字编程，linux下内存那一套；如果是Java，一般会问JVM，设计模式，SSH。</p>
+<h3 id="算法数据结构"><a href="#算法数据结构" class="headerlink" title="算法数据结构"></a>算法数据结构</h3><p>这点我自己还算是蛮有心得的，毕竟leecode刷了多一半了。这个就是积累，没有什么捷径，一定要早做计划，每天上刷题网站刷几道，可以由易到难。个人推荐leecode，刷完后什么剑指offer，编程之美都秒杀。一定要每天刷，把它作为自己的一个习惯，起码坚持一个月。</p>
+<p>当然不是让你不看题解什么的，有的题还是很难的。看完后一定要理解，下次再提起来自己能找到思路。到最后起码看到题之后自己是有思路的，这个刷题的过程其实就是锻炼自己思维转化为代码的过程。</p>
+<h3 id="其他专项知识"><a href="#其他专项知识" class="headerlink" title="其他专项知识"></a>其他专项知识</h3><p>这些就是一个突击的过程，因为平时咱们也学过，要都记着的话那还是人么。只能找面经，看各个专项知识，这里我就自己推荐几个网站，用的最多的莫过于牛客网，自己的话除了逛牛客的一些精品专项之后，还会google一些专项训练来看。</p>
+<p>有个好习惯和大家分享下，可以自己弄个笔记本，把这些基本知识都记下来。真的是看过都忘了，手写过一遍后更牢固，在心仪大公司招聘之前还可以翻翻，缓解下心情。我自己是这么做的。</p>
+<p>推荐几本书吧。周志明著的《深入理解Java虚拟机》、Joshua Bloch著的《Effective Java》中文版、Java圣经《java核心技术》（由于我自己是找Java的我对这个比较熟），C、C++可以看《C++ Primer》《Unix网络编程》《深入探索C++对象模型》（这是小伙伴书桌上的）。</p>
+<p>此外，还需了解些开放型的题目：例如大数据处理方面，多并发方面，系统架构方面。好几次某几家公司问我抢红包，节日限定商品秒杀给你你怎么做。</p>
+<h3 id="题外话"><a href="#题外话" class="headerlink" title="题外话"></a>题外话</h3><p>一定要和一堆志同道合的伙伴一起找（起码方向是一致的），这样讨论的东西，面试之后的经验交流，很有可能下次你也碰到这个问题，概率很大。而且在一起做笔试有奇效，这个秘技需要你们自己去体会=-=。</p>
+<h2 id="心态"><a href="#心态" class="headerlink" title="心态"></a>心态</h2><p>为什么把这个单独放出来谈呢。因为找工作是一个漫长过程，尤其是在别人有offer，自己没有；别人比自己的offer好，自己不服气；自己意乱心烦时正好还有些叽叽喳喳的小伙伴，“X神，那什么是不是又过了”“对对对”“毕竟X神”“我擦，能跟XXX比么。”，那种充满春风得意的肆意相互吹捧，从不顾及你还在角落里看着牛客里面的面经。</p>
+<p>有人问怎么会心态崩呢！你设想一下：每天跑好几个面试场，一天可能讲你简历上的项目就得讲好多遍（个人记录是7遍），晚上还有笔试，吃饭经常没个准时，这样维持一个月，尤其是中途还没有一些offer来给你加油鼓劲，你都怀疑自己是不是真的比别人差。心态崩了，随便找个签了吧，明知道自己可以找更好的；心情郁闷，导致面试一次比一次差，恶性循环。所以心态很重要。</p>
+<p>上面的百态我算是尝了个遍，可能是幸运女神就是不眷顾我。</p>
+<p>我对于这个问题的看法：想退缩、想放弃选更低目标的时候一定要提醒自己当初想去什么地方，想要做什么，自己完成目标了没有。而不是因为这些小挫折就连拼搏的勇气都没有了。（从来不怎么会讲鸡汤，果然~）。</p>
+<p>实在累了就放松一下，我那会在20几号的时候一度感觉自己要签了（手里已经有几个offer），随便找个吧。打了一晚上游戏，睡了一个好觉第二天果然感觉自己又满血了。</p>
+<p>所以一定要学会调节自己，摆正心态，只要一直努力，从面试中一直吸取教训经验。真不怕找不见好工作。</p>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>自己文笔也不好，但还是想写这么个东西，也算对这个月的一个总结。读到这里大家一定会问我找的哪里，其实去了一个自己意向里面优先级最低的百度。我真是一个普通的硕士，不像那些大神offer信手拈来。也是辛苦了整整一个月，最后终于还算对自己有个交代。预祝各位读者个个找见自己心仪的公司。</p>
 ]]></content>
     </entry>
     
