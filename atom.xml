@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2016-10-04T10:58:48.834Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://xiaoyaolee.com/"/>
+  <updated>2016-10-05T05:58:42.980Z</updated>
+  <id>http://xiaoyaolee.com/</id>
   
   <author>
     <name>Xiao Xiong</name>
@@ -16,9 +16,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>九月校招</title>
+    <link href="http://xiaoyaolee.com/2016/10/05/%E4%B9%9D%E6%9C%88%E6%A0%A1%E6%8B%9B/"/>
+    <id>http://xiaoyaolee.com/2016/10/05/九月校招/</id>
+    <published>2016-10-05T05:58:42.000Z</published>
+    <updated>2016-10-05T05:58:42.980Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/10/04/hello-world/"/>
-    <id>http://yoursite.com/2016/10/04/hello-world/</id>
+    <link href="http://xiaoyaolee.com/2016/10/04/hello-world/"/>
+    <id>http://xiaoyaolee.com/2016/10/04/hello-world/</id>
     <published>2016-10-04T10:58:48.832Z</published>
     <updated>2016-10-04T10:58:48.834Z</updated>
     
